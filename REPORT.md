@@ -19,7 +19,7 @@
 * How might we create a questionnaire that builds an employee profile and skill matrix?
 * How might we provide RM’s with guidelines and a script to help in providing improved service to the end-customer?
 * How might we change the way a customer is scored?
-* How might we create a target list for each ™ based on their skills and profile?
+* How might we create a target list for each RM based on their skills and profile?
 * How might we ensure that our customers are always kept happy and satisfied?
 * How might we direct inbound customers to an Interactive Voice Response unit / Automatic Call Distributor?
 * How might we prevent customers hanging up from long wait times?
