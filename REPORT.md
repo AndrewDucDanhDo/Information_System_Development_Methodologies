@@ -1,12 +1,18 @@
 # Information_System_Development_Methodologies Report
 
-## **0. Team Members** ##
-Group Number | Name | Student ID 
--------------|-----|-----------
-3 | Adam Kondonis | 
-3 | Andrew Do | 12876520
-3 | Louis Henderson | 
-3 | Nimrod Ktalav |
+## **0. Tutorial & Team Information** ##
+Subject | Tutorial Group | Team Group Number
+--------|----------------|-------------
+31257 Information System Development Methodologies | 7 | 3
+
+
+Name | Student ID 
+-----|-----------
+Adam Kondonis | 
+Andrew Do | 12876520
+Louis Henderson | 
+Nimrod Ktalav |
+
 
 
 ## **1. Executive Summary** ##
