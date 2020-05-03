@@ -1,30 +1,43 @@
-# Information_System_Development_Methodologies
+# Information_System_Development_Methodologies Report
 
-1. Executive Summary
-
-
-2. Objectives
+## **1. Executive Summary** ##
 
 
-3. Problem Definition
+## **2. Objectives** ##
 
 
-4. Stakeholders
+## **3. Problem Definition** ##
 
 
-5. Design Thinking
+## **4. Stakeholders** ## 
+### Point of View Statements: ###
+* How might we improve call routing and dynamic call flow control for both inbound and outbound calls?
+* How might we segment customers into social and cultural segments according to their postcodes and surnames?
+* How might we provide assistance to RMs in serving  their end-customers?
+* How might we create a supporting tool to  create customer profiles?
+* How might we improve who is served first?
+* How might we create a questionnaire that builds an employee profile and skill matrix?
+* How might we provide RM’s with guidelines and a script to help in providing improved service to the end-customer?
+* How might we change the way a customer is scored?
+* How might we create a target list for each ™ based on their skills and profile?
+* How might we ensure that our customers are always kept happy and satisfied?
+* How might we direct inbound customers to an Interactive Voice Response unit / Automatic Call Distributor?
+* How might we prevent customers hanging up from long wait times?
 
 
-6. Agie Methodologies
+## **5. Design Thinking** ##
 
 
-7. Key Assumptions
+## **6. Agie Methodologies** ##
 
 
-8. Workproducts & Models
+## **7. Key Assumptions** ##
 
 
-9. Advantages
+## **8. Workproducts & Models** ##
 
 
-10. Conclusion
+## **9. Advantages** ##
+
+
+## **10. Conclusion** ##
