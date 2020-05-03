@@ -12,13 +12,19 @@
 4. Stakeholders
 
 
-5. Key Assumptions
+5. Design Thinking
 
 
-6. Workproducts & Models
+6. Agie Methodologies
 
 
-7. Advantages
+7. Key Assumptions
 
 
-8. Conclusion
+8. Workproducts & Models
+
+
+9. Advantages
+
+
+10. Conclusion
