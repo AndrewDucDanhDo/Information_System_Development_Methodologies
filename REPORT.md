@@ -65,6 +65,19 @@ Potential solutions to these aforementioned problems include implementing a mult
 
 
 ## **7. Key Assumptions** ##
+*	The company will continue to operate during the switch of new information system
+*	A business plan was created before implementation
+*	Supporting tool to create customer profiles exists (Profiler tool). 
+*	Customers will continue to shop with the travel company after the system is in place
+*	The new and improved system will have no malfunctions 
+*	The system will attract new potential buyers
+*	The system will serve those with the highest scores first  
+*	The systems ‘know’ the scores of each customer
+*	The system ‘knows’ when it is too busy and must re-direct customers to the interactive voice response control. 
+*	The new system will adjust the call flow rate to suitable Relationship Managers (RM)
+*	The company has resources to make the new system
+*	The company has the finances to fund the new system
+* Expertise is available for the creation of the new system
 
 
 ## **8. Workproducts & Models** ##
