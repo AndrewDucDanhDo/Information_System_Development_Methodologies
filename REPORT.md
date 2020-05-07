@@ -10,7 +10,7 @@ Name | Student ID
 -----|-----------
 Adam Kondonis | 
 Andrew Do | 12876520
-Louis Henderson | 
+Louis Henderson | 13609096
 Nimrod Ktalav | 12900268
 
 
@@ -22,6 +22,13 @@ Nimrod Ktalav | 12900268
 
 
 ## **3. Problem Definition** ##
+A major travel company uses a call management centre as a way of attempting to sell holiday packages to people who want to travel. To ensure that sales are being made efficiently, customers are assigned a rank, where higher ranking customers will have priority in regards to how long they need to wait before being served. Their rank is based on factors, such as whether they are a repeat customer or what area they live in that determine how likely they are to purchase a holiday package. 
+Additionally, inbound customers can talk to an Interactive Voice Response Unit during busy times. They may be asked why they called before being redirected to a relationship manager (people who sell holiday packages). These processes can be enough to influence customers to not purchase from this company where both the use of a phone system and customers waiting for a potentially long time would be perceived as outdated and unfair. This means that the travel company would struggle to compete against other companies who use modern systems to sell their products. 
+ 
+Sales are also designed to be more efficient to make by matching relationship managers and customers based on factors such as skills and language proficiency. 
+The travel company has a target list of certain potential buyers generated for each relationship manager based on their skills. This is used for outbound calls. However, since this technique in selling has a negative reputation for annoying people, it is very likely that a lot of potential buyers would not want to purchase a holiday package from this company. 
+ 
+Therefore, the current use of a phone system which includes an Interactive Response Unit, determining which customers are served first, and a potential long waiting time can severely affect this travel company’s overall performance if an information system is not developed as a means of reducing the amount of customers lost.
 
 
 ## **4. Stakeholders** ##
