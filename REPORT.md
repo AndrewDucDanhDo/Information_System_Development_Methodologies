@@ -8,7 +8,7 @@ Subject | Tutorial Group | Team Group Number
 
 Name | Student ID 
 -----|-----------
-Adam Kondonis | 
+Adam Kondonis | 13560471
 Andrew Do | 12876520
 Louis Henderson | 13609096
 Nimrod Ktalav | 12900268
