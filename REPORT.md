@@ -99,8 +99,8 @@ Potential solutions to these aforementioned problems include implementing a mult
 ## **8. Workproducts & Models** ##
 
 ### User Stories: ###
-* As a customer, I want to speak to a relationship manager who has knowledge about my destination so that I can better decide if I want to purchase a holiday package
-* As a relationship manager, I want to be matched with customers based on my skills so that I am more likely to achieve a sale
+* As a customer, I want to speak to a relationship manager who has knowledge about my destination so that I can better decide if I want to purchase a holiday package.
+* As a relationship manager, I want to be matched with customers based on my skills so that I am more likely to achieve a sale.
 * As a customer, I want to be able to served as soon as possible so that I am less likely to experience a long wait time.
 * As a relationship manager, I want to serve the customer with the highest score first so that I can maximise customer loyalty. 
 
