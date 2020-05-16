@@ -78,7 +78,9 @@ Potential solutions to these aforementioned problems include implementing a mult
 
 
 ## **6. Agile Methodologies** ##
+The team has used the Agile Methodology to continuously develop the following report, situational analysis, models, diagrams and benefits for the proposed call management system. Iterations are conducted through weekly virtual online team meetings where individual progressions are voiced, potential issues are raised and tasks are assigned for the following scrum iteration. Consequently, the agile process fosters growth, team coordination, communication and understanding of the current status of the project according to changing requirements, newly found insights, emotional and mental workloads, and learning points. Each individual within the team is self-organised meaning that given their task, they have the decision on how they would like to accomplish their work.
 
+Assigned roles for this project are as follows: the Product Owner (Subject Coordinator), the Scrum Master (Andrew Do), and the Development Team (Adam Kondonis, Louis Henderson, and Nimrod Ktalav). Scrum is defined by the development process that is unpredictable and requires adaptation; in this projects
 
 ## **7. Key Assumptions** ##
 *	The company will continue to operate during the switch of new information system
