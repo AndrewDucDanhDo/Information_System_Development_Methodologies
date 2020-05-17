@@ -35,6 +35,8 @@ Without these features, it is assumed that the company’s call management centr
 
 
 ## **4. Stakeholders** ##
+### Empathy Maps: ###
+
 ### Point-of-View Statements: ###
 * Relationship Managers (RMs) need a system to control call flow for inbound and outbound calls so that the amount of calls can be effectively managed.
 * RMs need a system that will match RMs and end-customers according to the RM’s skills and customers profiles so that a suitable service can be provided.
