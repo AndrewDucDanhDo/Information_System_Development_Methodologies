@@ -45,7 +45,7 @@ Outbound Customer
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Outbound.jpg)
 
 Travel Company
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/Travel%20Company.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Travel%20Company.jpg)
 
 ### Point-of-View Statements: ###
 * Relationship Managers (RMs) need a system to control call flow for inbound and outbound calls so that the amount of calls can be effectively managed.
