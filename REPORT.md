@@ -35,13 +35,13 @@ Without these features, it is assumed that the company’s call management centr
 
 ## **4. Stakeholders** ##
 ### Empathy Maps: ###
-Relationship Manager
+Relationship Managers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/RM.jpg)
 
-Inbound Customer
+Inbound Customers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Inbound.jpg)
 
-Outbound Customer
+Outbound Customers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Outbound.jpg)
 
 Travel Company
