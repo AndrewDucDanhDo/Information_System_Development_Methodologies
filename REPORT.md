@@ -16,7 +16,8 @@ Nimrod Ktalav | 12900268
 
 
 ## **1. Executive Summary** ##
-
+EXAMPLE
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/github.png)
 
 ## **2. Objectives** ##
 A major travel company currently uses an in-house call management centre to make sales with customers who wish to travel. The current system is complicated, unreliable and slow, which can delay business operations for the travel company. Hence, the project objective is to develop a more reliable and intuitive information system for both customers and relationship managers in order to improve business operations of their in-house call management centre. A stakeholder analysis must be conducted in order to clearly define stakeholder requirements and to meet the objectives of the project.
