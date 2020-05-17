@@ -36,13 +36,13 @@ Without these features, it is assumed that the company’s call management centr
 ## **4. Stakeholders** ##
 ### Empathy Maps: ###
 Relationship Manager
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/RM.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/RM.jpg)
 
 Inbound Customer
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/Inbound.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Inbound.jpg)
 
 Outbound Customer
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/Outbound.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Outbound.jpg)
 
 
 ### Point-of-View Statements: ###
