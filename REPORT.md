@@ -25,13 +25,13 @@ In order to achieve the desired outcomes of the project, it is crucial to ensure
 
 
 ## **3. Problem Definition** ##
-A major travel company uses a call management centre as a way of attempting to sell holiday packages to people who want to travel. To ensure that sales are being made efficiently, customers are assigned a rank, where higher ranking customers will have priority in regards to how long they need to wait before being served. Their rank is based on factors, such as whether they are a repeat customer or what area they live in that determine how likely they are to purchase a holiday package. 
-Additionally, inbound customers can talk to an Interactive Voice Response Unit during busy times. They may be asked why they called before being redirected to a relationship manager (people who sell holiday packages). These processes can be enough to influence customers to not purchase from this company where both the use of a phone system and customers waiting for a potentially long time would be perceived as outdated and unfair. This means that the travel company would struggle to compete against other companies who use modern systems to sell their products. 
+A major travel company uses a call management centre as a way of attempting to sell holiday packages to people who want to travel. They want an information system to be developed which will improve the overall operation of their call management centre. 
  
-Sales are also designed to be more efficient to make by matching relationship managers and customers based on factors such as skills and language proficiency. 
-The travel company has a target list of certain potential buyers generated for each relationship manager based on their skills. This is used for outbound calls. However, since this technique in selling has a negative reputation for annoying people, it is very likely that a lot of potential buyers would not want to purchase a holiday package from this company. 
- 
-Therefore, the current use of a phone system which includes an Interactive Response Unit, determining which customers are served first, and a potential long waiting time can severely affect this travel company’s overall performance if an information system is not developed as a means of reducing the amount of customers lost.
+The main features of this system would include: matching relationship managers (RM) and customers based on their profiles such as RM skills and customer’s post codes; creating a profile for each RM which details their skill matrix and adjusts based on how they perform in selling products; generating a target list where RMs need to do outbound calls for potential customers; assigning customers a score based on how likely they are to make a purchase which determines how long they need to wait before talking to an RM; and directing customers to an Interactive Voice Response Unit before being redirected to an RM during busy times.
+
+Without these features, it is assumed that the company’s call management centre has difficulties in their overall performance, where relationship managers would be more likely to talk to customers who will most likely not purchase a holiday package. This means that the travel company is less likely to reach their target customers, which can be accentuated by the current call rate, call routing and dynamic call flow control processes. These circumstances would result in the company’s targeted customers to purchase from a different company that would probably use a system which is more efficient in enabling customers talking to sales employees.
+
+
 
 
 ## **4. Stakeholders** ##
