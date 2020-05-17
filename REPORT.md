@@ -36,14 +36,16 @@ Without these features, it is assumed that the company’s call management centr
 ## **4. Stakeholders** ##
 ### Empathy Maps: ###
 Relationship Manager
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/RM.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/RM.jpg)
 
 Inbound Customer
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Inbound.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/Inbound.jpg)
 
 Outbound Customer
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Outbound.jpg)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/Outbound.jpg)
 
+Travel Company
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/Travel%20Company.jpg)
 
 ### Point-of-View Statements: ###
 * Relationship Managers (RMs) need a system to control call flow for inbound and outbound calls so that the amount of calls can be effectively managed.
