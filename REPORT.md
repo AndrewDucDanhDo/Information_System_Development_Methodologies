@@ -126,7 +126,8 @@ Scrum is defined by the development process that is unpredictable and requires a
 * As a relationship manager i want to make sure the 'profiler tool' operatres smoothly so that customer profiles can be created.
 * As a customer, i want to fill out the 10 minute questionnaire truthfuly and swiftly so that i will be used to build a profile and place me in the correct skill matrix.
 * As a relationship manager, i want to successfuly speak to outbound customers enticingly so that i can attempt to make them inbound customers. 
-*
+* As a relationship manager i want to improve the call flow rate so that customers are matched based on RM performence and product knowledge. 
+* 
 
 ## **9. Advantages** ##
 
