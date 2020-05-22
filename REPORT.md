@@ -122,6 +122,11 @@ Scrum is defined by the development process that is unpredictable and requires a
 * As a relationship manager, I want to be matched with customers based on my skills so that I am more likely to achieve a sale.
 * As a customer, I want to be able to served as soon as possible so that I am less likely to experience a long wait time.
 * As a relationship manager, I want to serve the customer with the highest score first so that I can maximise customer loyalty. 
+* As a customer with a large score, i want to be able to ensure that i will have minimal waiting time so that i am able to make my booking faster.
+* As a relationship manager i want to make sure the 'profiler tool' operatres smoothly so that customer profiles can be created.
+* As a customer, i want to fill out the 10 minute questionnaire truthfuly and swiftly so that i will be used to build a profile and place me in the correct skill matrix.
+* As a relationship manager, i want to successfuly speak to outbound customers enticingly so that i can attempt to make them inbound customers. 
+*
 
 ## **9. Advantages** ##
 
