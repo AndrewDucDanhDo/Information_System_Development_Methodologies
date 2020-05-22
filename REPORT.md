@@ -128,12 +128,19 @@ Scrum is defined by the development process that is unpredictable and requires a
 * As a relationship manager, I want to serve the customer with the highest score first so that I can maximise customer loyalty. 
 * As a customer with a large score, i want to be able to ensure that i will have minimal waiting time so that i am able to make my booking faster.
 * As a relationship manager i want to make sure the 'profiler tool' operatres smoothly so that customer profiles can be created.
-* As a customer, i want to fill out the 10 minute questionnaire truthfuly and swiftly so that i will be used to build a profile and place me in the correct skill matrix.
+* As a customer, I want to fill out the 10 minute questionnaire truthfuly and swiftly so that i will be used to build a profile and place me in the correct skill matrix.
 * As a relationship manager, i want to successfuly speak to outbound customers enticingly so that i can attempt to make them inbound customers. 
 * As a relationship manager i want to improve the call flow rate so that customers are matched based on RM performence and product knowledge. 
 * 
 
 ## **9. Advantages** ##
 Competitive advantage refers to an advantage gained over competitors by offering a greater value to consumers compared to other competitors within the market. Competitive advantage is essential in order for a company to distinguish their products and services from other competitors.
+
+Competitive advantage could be achieved through the implementation of a new system for the travel company, which can result in new opportunities for the company.
+
+THINGS TO DISCUSS IN ADVANTAGES:
+- address the problems with current system
+- address how new system can overcome these issues
+- make links to problem definition
 
 ## **10. Conclusion** ##
