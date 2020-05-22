@@ -134,6 +134,6 @@ Scrum is defined by the development process that is unpredictable and requires a
 * 
 
 ## **9. Advantages** ##
-
+Competitive advantage refers to an advantage gained over competitors by offering a greater value to consumers compared to other competitors within the market. Competitive advantage is essential in order for a company to distinguish their products and services from other competitors.
 
 ## **10. Conclusion** ##
