@@ -22,7 +22,7 @@ A major travel company currently uses an in-house call management centre to make
  
 In order to achieve the desired outcomes of the project, it is crucial to ensure that the project is in reach of our budget and that enough time is allocated to tasks to ensure that there is enough time to complete tasks.
  
-Goals are SMART: specific, measurable, achievable, Relevant and timely. In order for the project objectives to be met, a logical strategy must be implemented and followed in order for goals to be met.
+Goals are SMART: specific, measurable, achievable, relevant and timely. In order for the project objectives to be met, a logical strategy must be implemented and followed in order for goals to be met.
  
 A major travel company would like to develop a more intuitive and reliable system for both relationship managers and customers. Hence one of the project objectives is to develop a more reliable system to support relationship managers and customers. Goals can be measured through tracking progress. By committing changes on GitHub, progress can be measured and the team can track. In order for the goal to be achieved, the team must collaborate together and work on achieving the goal. This can be done through assigning tasks to different team members, hence the completion of certain tasks can be effectively achieved through assigning different roles to different team members.
 By creating a time plan and allocating time for each task, the team can ensure that tasks are completed within the given timeframe.
