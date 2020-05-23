@@ -128,7 +128,6 @@ Scrum is defined by the development process that is unpredictable and requires a
 
 
 ## **8. Workproducts & Models** ##
-
 ### User Stories: ###
 * As a customer, I want to speak to a relationship manager who has knowledge about my destination so that I can better decide if I want to purchase a holiday package.
 * As a relationship manager, I want to be matched with customers based on my skills so that I am more likely to achieve a sale.
@@ -140,6 +139,14 @@ Scrum is defined by the development process that is unpredictable and requires a
 * As a relationship manager, i want to successfuly speak to outbound customers enticingly so that i can attempt to make them inbound customers. 
 * As a relationship manager i want to improve the call flow rate so that customers are matched based on RM performence and product knowledge. 
 * 
+
+### Use Case Diagrams ###
+#### Use Case Diagram #1: Inbound ####
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_in_bound.png)
+
+#### Use Case Diagram #2: Outbound ####
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_out_bound.png)
+
 
 ## **9. Advantages** ##
 Competitive advantage refers to an advantage gained over competitors by offering a greater value to consumers compared to other competitors within the market. Competitive advantage is essential in order for a company to distinguish their products and services from other competitors.
