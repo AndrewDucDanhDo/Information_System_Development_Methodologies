@@ -18,24 +18,40 @@ Nimrod Ktalav | 12900268
 ## **1. Executive Summary** ##
 
 ## **2. Objectives** ##
-A major travel company currently uses an in-house call management centre to make sales with customers who wish to travel. The current system is complicated, unreliable and slow, which can delay business operations for the travel company. Hence, the project objective is to develop a more reliable and intuitive information system for both customers and relationship managers in order to improve business operations of their in-house call management centre. A stakeholder analysis must be conducted in order to clearly define stakeholder requirements and to meet the objectives of the project.
+The following report proposes an information system that will improve the operations of a major travel company's in-house call management centre (CMC). The objective is to provide an information system that improves call routing and dynamic call flow control for Relationship Managers (RM) that are allocated queries from inbound and outbound customers based on suitability. 
  
-In order to achieve the desired outcomes of the project, it is crucial to ensure that the project is in reach of our budget and that enough time is allocated to tasks to ensure that there is enough time to complete tasks.
- 
-Goals are SMART: specific, measurable, achievable, relevant and timely. In order for the project objectives to be met, a logical strategy must be implemented and followed in order for goals to be met.
- 
-A major travel company would like to develop a more intuitive and reliable system for both relationship managers and customers. Hence one of the project objectives is to develop a more reliable system to support relationship managers and customers. Goals can be measured through tracking progress. By committing changes on GitHub, progress can be measured and the team can track. In order for the goal to be achieved, the team must collaborate together and work on achieving the goal. This can be done through assigning tasks to different team members, hence the completion of certain tasks can be effectively achieved through assigning different roles to different team members.
-By creating a time plan and allocating time for each task, the team can ensure that tasks are completed within the given timeframe.
+### System Objectives: Functional & Non-Functional Requirements ###
 
+Functional Requirements 
+--------|
+The system matches the relationship managers and customers based on the RM's performance, profiles and product knowledge.
+The system stores the user's profile information into a database.
+The system has Profiler Tool that creates profiles for the RM and customers.
+The system produces a questionnaire and skill matrix of the RMs.
+The system gneerates guidelines and a script to assist RMs with their customer service.
+The system generates a target list of suitable customers for the RM to call.
+The system has a call routing and distribution routine that minimises inbound call costs by reduing per-call handling time.
+The system generates a priority-based score for customers in which higher customer scores are served first.
+The system has an Interactive Voice Response unit that automatically prompts the user for information while they are waiting in a queue.
+
+
+Non-Functional Requirements | Purpose 
+--------|----------------
+Responsive | Because inbound customers can potentially be waiting in a queue when they call the CMC, the system's timeliness is essential to allocating suitable RMs and maximising potential travel package sale opportunities.
+Usable | RMs require an user-friendly interface that provides easy-to-understand scripts and customer information to resolve customer inquiries efficiently.
+Extensible | Future extensions to the call routing system can be applied to improve the system's service quality.
+Maintainable | System failures and bugs are inevitable; constant maintenance can mitigate these issues.
+Data Architecture | Because the travel company manages several holiday package options, user profiles and performance reports, the system requires a logical structure for organising the data to prevent memory overflows.
+Secure | The system handles user sensitive data that should adhere to the Australian Data Privacy Act 1988.
+
+### Team Objectives ###
+Team goals can be measured through Github's version control features and opened issues. In order for the goals to be achieved, the team will hold weekly meetings, commit an update for their assigned task to github at least once a week and comment on the opened issues if there are any inquiries. Each team member will be assigned a role with task responsibilities for this project (Further clarification can be found in Section 6: Agile Methodologies). The team objective to achieve an High Destinction for this report as well as satisfactory team collaboration and morale.
 
 ## **3. Problem Definition** ##
 A major travel company uses a call management centre as a way of attempting to sell holiday packages to people who want to travel. They want an information system to be developed which will improve the overall operation of their call management centre. 
  
-The main features of this system would include: matching relationship managers (RM) and customers based on their profiles such as RM skills and customer’s post codes; creating a profile for each RM which details their skill matrix and adjusts based on how they perform in selling products; generating a target list where RMs need to do outbound calls for potential customers; assigning customers a score based on how likely they are to make a purchase which determines how long they need to wait before talking to an RM; and directing customers to an Interactive Voice Response Unit before being redirected to an RM during busy times.
 
 Without these features, it is assumed that the company’s call management centre has difficulties in their overall performance, where relationship managers would be more likely to talk to customers who will most likely not purchase a holiday package. This means that the travel company is less likely to reach their target customers, which can be accentuated by the current call rate, call routing and dynamic call flow control processes. These circumstances would result in the company’s targeted customers to purchase from a different company that would probably use a system which is more efficient in enabling customers talking to sales employees.
-
-
 
 
 ## **4. Stakeholders** ##
