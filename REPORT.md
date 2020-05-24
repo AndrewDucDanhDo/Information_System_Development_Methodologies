@@ -151,17 +151,18 @@ Scrum is defined by the development process that is unpredictable and requires a
 * As a relationship manager, I want to serve the customer with the highest score first so that I can maximise customer loyalty. 
 * As a customer with a large score, i want to be able to ensure that i will have minimal waiting time so that i am able to make my booking faster.
 * As a relationship manager i want to make sure the 'profiler tool' operatres smoothly so that customer profiles can be created.
-* As a customer, I want to fill out the 10 minute questionnaire truthfuly and swiftly so that i will be used to build a profile and place me in the correct skill matrix.
+* As a relationship, I want to fill out the 10 minute questionnaire truthfuly and swiftly so that i will be used to build a profile and place me in the correct skill matrix.
 * As a relationship manager, i want to successfuly speak to outbound customers enticingly so that i can attempt to make them inbound customers. 
-* As a relationship manager i want to improve the call flow rate so that customers are matched based on RM performence and product knowledge. 
-* 
+* As a relationship manager, I want to improve the call flow rate so that customers are matched based on RM performence and product knowledge. 
+* As a relationship manager, I want to ensure that customers are receiving promotional offerings so that the travel company can maximise our product offerings.
+*
 
 ### Use Case Diagrams ###
 #### Use Case Diagram #1: Inbound ####
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_in_bound.png)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_inbound.png)
 
 #### Use Case Diagram #2: Outbound ####
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_out_bound.png)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_outbound.png)
 
 
 ## **9. Advantages** ##
