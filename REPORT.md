@@ -155,7 +155,6 @@ Scrum is defined by the development process that is unpredictable and requires a
 * As a relationship manager, i want to successfuly speak to outbound customers enticingly so that i can attempt to make them inbound customers. 
 * As a relationship manager, I want to improve the call flow rate so that customers are matched based on RM performence and product knowledge. 
 * As a relationship manager, I want to ensure that customers are receiving promotional offerings so that the travel company can maximise our product offerings.
-*
 
 ### Use Case Diagrams ###
 #### Use Case Diagram #1: Inbound ####
