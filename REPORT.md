@@ -177,11 +177,11 @@ A class diagram represent various aspects of the system and are used to model th
 #### Activity Diagram ####
 Inbound Call
 ![github]
-
+(https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
 
 Outbound Call
 ![github]
-
+(https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Outbound.png)
 
 #### Collaborative Diagram ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_inbound_customer.png)
