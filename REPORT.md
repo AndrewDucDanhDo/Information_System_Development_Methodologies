@@ -55,7 +55,7 @@ Without these features, it is assumed that the company’s call management centr
 Relationship Managers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_relationship_manager.jpg)
 
-Relationship managers are often under immense stress. They may feel pressure to meet sales quotas and make sales. They receive calls from inbound customers and make calls to outbound customers. Relationship managers are responsible for performing sales on holiday packages, answer customer inquiries and building a profile matrix. They may often hear complaints from customers as well as customer feedback. Relationship managers may feel pressure throuhg using a slow and inefficient system, and pressure may also arise through constantly having to meet up with sales quotas. On the other hand, having an improved system can reduce the pain and pressure experienced by relationship managers.
+Relationship managers are responsible for performing sales on holiday packages, answer customer inquiries and building a profile matrix. They may often hear complaints from customers as well as customer feedback. Having an improved system can reduce the pain and pressure experienced by RMs.
 
 Inbound Customers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_in_bound.jpg)
