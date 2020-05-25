@@ -27,7 +27,7 @@ Functional Requirements
 The system matches the relationship managers and customers based on the RM's performance, profiles and product knowledge.
 The system has Profiler Tool that creates profiles for the RM and customers.
 The system produces a questionnaire and skill matrix of the RMs.
-The system generates targetlist, guidelines and a script to assist RMs with their customer service.
+The system generates a target list, guidelines and a script to assist RMs with their customer service.
 The system generates a priority-based score for customers in which higher customer scores are served first.
 The system has an Interactive Voice Response unit that automatically prompts the user for information while they are waiting in a queue.
 
@@ -41,7 +41,7 @@ Data Architecture | Because the travel company manages several holiday package o
 Secure | The system handles user sensitive data that should adhere to the Australian Data Privacy Act 1988.
 
 ### Team Objectives ###
-Team goals can be measured through Github's version control features and opened issues. In order for the goals to be achieved, the team will hold weekly meetings, commit an update for their assigned task to github at least once a week and comment on the opened issues if there are any inquiries. Each team member will be assigned a role with task responsibilities for this project, and the team objective to achieve an High Destinction for this report as well as satisfactory team collaboration and morale.
+Team goals can be measured through Github's version control features and opened issues. In order for the goals to be achieved, the team will hold weekly meetings, commit an update for their assigned task to github at least once a week and comment on the opened issues if there are any inquiries. Each team member will be assigned a role with task responsibilities for this project, and the team objective to achieve an High Distinction for this report as well as satisfactory team collaboration and morale.
 
 ## **3. Problem Definition** ##
 A major travel company is seeking to update their call management system to improve their call routing and dynamic call flow control by matching Relationship Managers with end customers according to the RM’s skills and the customer’s profiles so that the company can increase the sales of their holiday packages.
@@ -93,7 +93,7 @@ In defining the travel company's situation, key stakeholders from the travel com
 ## **6. Agile Methodologies** ##
 The team has used the Agile Methodology to continuously develop the following report, situational analysis, models, diagrams and benefits for the proposed call management system. Iterations are conducted through weekly virtual online team meetings where individual progressions are voiced, potential issues are raised and tasks are assigned for the following scrum iteration. Each individual within the team is self-organised meaning that given their task, they have the decision on how they would like to accomplish their work. Assigned roles for this project are as follows: the Product Owner (Subject Coordinator), the Scrum Master (Andrew Do), and the Development Team (Adam Kondonis, Louis Henderson, and Nimrod Ktalav). 
 
-The weekly sprints for this agile process are the periods that each task is assigned from the backlog. At the beginning, a sprint planning forecasted the product backlog of items that needed to be completed including the problem analysis, design thinking process and required model diagrams. The sprint review was taken place to ensure that the project is aligning with the user requirements from the product owner. Lastly, the sprint retrospective occured at the end of each sprint to examine the ways that the team could improve the features of the call system. With each backlogged item, there is an associated user story as shown in Section 8. The finalisation of the agile process occured when every member of the team has unanimously agreed that there is no more work to do. 
+The weekly sprints for this agile process are the periods that each task is assigned from the backlog. At the beginning, a sprint planning forecasted the product backlog of items that needed to be completed including the problem analysis, design thinking process and required model diagrams. The sprint review was taken place to ensure that the project is aligning with the user requirements from the product owner. Lastly, the sprint retrospective occurred at the end of each sprint to examine the ways that the team could improve the features of the call system. With each backlogged item, there is an associated user story as shown in Section 8. The finalisation of the agile process occurred when every member of the team has unanimously agreed that there is no more work to do. 
 
 ## **7. Key Assumptions** ##
 * The travel company has sufficient funding to implement the new call management information system.
@@ -109,25 +109,25 @@ The weekly sprints for this agile process are the periods that each task is assi
 * As a customer, I want to be able to be served as soon as possible so that I am less likely to experience a long wait time.
 * As a customer with a large score, I want to be able to ensure that I will have minimal waiting time so that I am able to make my booking faster.
 * As a relationship manager, I want to make sure the 'profiler tool' operates smoothly so that customer profiles can be created.
-* As a relationship, I want to fill out the 10 minute questionnaire truthfuly and swiftly so that I will be used to build a profile and place me in the correct skill matrix.
+* As a relationship, I want to fill out the 10 minute questionnaire truthfully and swiftly so that I will be used to build a profile and place me in the correct skill matrix.
 * As a relationship manager, I want to ensure that customers are receiving promotional offerings so that the travel company can maximise our product offerings.
 
 ### Use Case Diagrams ###
 #### Use Case Diagram #1: Inbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_inbound.png)
 
-This shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. The inbound customer’s question may be answered by an automated bot or redirect them to their website depending on the inquiry. If chat bot cannot answer the query, the customer ends up talking to a relationship manager about purchasing a holiday package
+This shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. The inbound customer’s question may be answered by an automated bot or redirect them to their website depending on the inquiry. If chat bot cannot answer the query, the customer ends up talking to a relationship manager about purchasing a holiday package.
 
 #### Use Case Diagram #2: Outbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_outbound.png)
 
-This use case diagram shows how the relationship managers will attempt to contact potential customers by calling them from their target list and ask if they are interested in the holiday packages available. If they are, ask the customers to complete a 10-minute questionnaire which will allow the company to profile the customer and store their details into a system database which will hold all of their respective data including a score to match their loyalty
+This use case diagram shows how the relationship managers will attempt to contact potential customers by calling them from their target list and ask if they are interested in the holiday packages available. If they are, ask the customers to complete a 10-minute questionnaire which will allow the company to profile the customer and store their details into a system database which will hold all of their respective data including a score to match their loyalty.
 
 
 #### Class Diagram ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/class_diagram.png)
 
-A class diagram represent various aspects of the system and are used to model the structure of the system. Thus, this diagram defines the overall structure of the system and the relationship amonst objects.
+A class diagram represent various aspects of the system and are used to model the structure of the system. Thus, this diagram defines the overall structure of the system and the relationship amongst objects.
 
 #### Activity Diagram: Inbound Call ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
