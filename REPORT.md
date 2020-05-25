@@ -44,10 +44,7 @@ Secure | The system handles user sensitive data that should adhere to the Austra
 Team goals can be measured through Github's version control features and opened issues. In order for the goals to be achieved, the team will hold weekly meetings, commit an update for their assigned task to github at least once a week and comment on the opened issues if there are any inquiries. Each team member will be assigned a role with task responsibilities for this project, and the team objective to achieve an High Destinction for this report as well as satisfactory team collaboration and morale.
 
 ## **3. Problem Definition** ##
-A major travel company uses a call management centre as a way of attempting to sell holiday packages to people who want to travel. They want an information system to be developed which will improve the overall operation of their call management centre. 
- 
-
-Without these features, it is assumed that the company’s call management centre has difficulties in their overall performance, where relationship managers would be more likely to talk to customers who will most likely not purchase a holiday package. This means that the travel company is less likely to reach their target customers, which can be accentuated by the current call rate, call routing and dynamic call flow control processes. These circumstances would result in the company’s targeted customers to purchase from a different company that would probably use a system which is more efficient in enabling customers talking to sales employees.
+A major travel company is seeking to update their call management system to improve their call routing and dynamic call flow control by matching Relationship Managers with end customers according to the RM’s skills and the customer’s profiles so that the company can increase the sales of their holiday packages.
 
 
 ## **4. Stakeholders** ##
