@@ -85,10 +85,14 @@ The travel company perform business operations such as sales and marketing. They
 ### How Might We Statements: ###
 * How might we improve call routing and dynamic call flow control for both inbound and outbound calls?
 * How might we segment customers into social and cultural segments according to their postcodes and surnames?
+* How might we provide assistance to RMs in serving  their end-customers?
+* How might we create a supporting tool to  create customer profiles?
+* How might we improve who is served first?
 * How might we create a questionnaire that builds an employee profile and skill matrix?
 * How might we provide RM’s with guidelines and a script to help in providing improved service to the end-customer?
 * How might we change the way a customer is scored?
 * How might we create a target list for each RM based on their skills and profile?
+* How might we ensure that our customers are always kept happy and satisfied?
 * How might we direct inbound customers to an Interactive Voice Response unit / Automatic Call Distributor?
 * How might we prevent customers hanging up from long wait times?
 
@@ -117,18 +121,10 @@ The team has used the Agile Methodology to continuously develop the following re
 Scrum is defined by the development process that is unpredictable and requires adaptation. The weekly sprints for this agile process were the periods that each task is assigned from the backlog. Each sprint involved furthering the development and understanding of the call management system. At the beginning, a sprint planning forecasted the product backlog of items that needed to be completed including the problem analysis, design thinking process and required model diagrams. The sprint review was taken place to ensure that the project is aligning with the user requirements from the product owner. Lastly, the sprint retrospective occured at the end of each sprint to examine the ways that the team could improve the features of the call system. With each backlogged item, there is an associated user story as shown in Section 8. The finalisation of the agile process occured when every member of the team has unanimously agreed that there is no more work to do. These guidelines were followed through the entirety of this project as shown in the github version control, the backlog of issues and the continuous development of models using draw.io. 
 
 ## **7. Key Assumptions** ##
-*	The company will continue to operate during the switch of new information system
-*	A business plan was created before implementation
-*	Supporting tool to create customer profiles exists (Profiler tool). 
-*	Customers will continue to shop with the travel company after the system is in place
-*	The new and improved system will have no malfunctions 
-*	The system will attract new potential buyers
-*	The system will serve those with the highest scores first  
-*	The systems ‘know’ the scores of each customer
-*	The system ‘knows’ when it is too busy and must re-direct customers to the interactive voice response control. 
-*	The new system will adjust the call flow rate to suitable Relationship Managers (RM)
-*	The company has resources to make the new system
-*	The company has the finances to fund the new system
+* The travel company has sufficient funding to implement the new call management information system.
+* The new call management system has within two to three years to implement the solution.
+* The travel company has the resources to implement the new call management system.
+* The Profiler Tool already exists, and will be incorporated into the new information system.
 * Expertise is available for the creation of the new system
 
 
@@ -163,22 +159,16 @@ This use case diagram shows how the relationship managers will attempt to contac
 
 A class diagram represent various aspects of the system and are used to model the structure of the system. Thus, this diagram defines the overall structure of the system and the relationship amonst objects.
 
-#### Activity Diagram ####
-Inbound Call
-![github]
-(https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
+#### Activity Diagram: Inbound Call ####
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
 
-Outbound Call
-![github]
-(https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Outbound.png)
+#### Activity Diagram: Outbound Call ####
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Outbound.png)
 
 #### Collaborative Diagram ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_inbound_customer.png)
 
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_relationship_manager.png)
-
-
-#### Sequence Diagram ####
 
 
 ## **9. Advantages** ##
