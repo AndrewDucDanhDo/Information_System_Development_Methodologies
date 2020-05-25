@@ -175,7 +175,13 @@ This use case diagram shows how the relationship managers will attempt to contac
 A class diagram represent various aspects of the system and are used to model the structure of the system. Thus, this diagram defines the overall structure of the system and the relationship amonst objects.
 
 #### Activity Diagram ####
+Inbound Call
+![github]
+(https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
 
+Outbound Call
+![github]
+(https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Outbound.png)
 
 #### Collaborative Diagram ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_inbound_customer.png)
