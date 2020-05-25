@@ -160,7 +160,7 @@ Scrum is defined by the development process that is unpredictable and requires a
 #### Use Case Diagram #1: Inbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_inbound.png)
 
-inbound calls are incoming calls, which are generally from existing or potential customers, where the relationship manager will respond to queries. This use case diagram shows the interaction between the system, the relationship managers and in bound customers. 
+Inbound calls are incoming calls, which are generally from existing or potential customers, where the relationship manager will respond to queries. This use case diagram shows the interaction between the system, the relationship managers and in bound customers. 
 
 Additionally, this diagram further shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. The inbound customer’s question may be answered by an automated bot or redirect them to their website depending on the inquiry. If the enquiry gets answered by the chat bot, they may hang up, If the customer ends up talking to a relationship manager about purchasing a holiday package, the customer will be asked to take a 10-minute questionnaire to build a profile which then ultimately becomes stored in the system database. Depending on the loyalty of the customer, the system will create a score for the customer which get stored in the database and will then help them get their questions answered quicker depending on their respective score. 
 #### Use Case Diagram #2: Outbound ####
@@ -169,6 +169,20 @@ Additionally, this diagram further shows how a customer (or potential customer) 
 Outbound calls are calls that are made by the company to their target audience to generate leads on potential customers and attempt to retain existing customers to strengthen the brand. Outbound agents have never had any previous contact with the customers they are calling. This use case diagram shows the interaction between the system, the relationship managers and in bound customers.
 
 Thus, this diagram shows how the relationship managers will attempt to contact potential customers by calling them from their target list (leave a voice mail if no answer) and ask if they are interested in the holiday packages available. If they are, ask the customers to complete a 10-minute questionnaire which will allow the company to profile the customer and store their details into a system database which will hold all of their respective data including a score to match their loyalty, which will ultimately decide how long they will wait in a phone call queue depending on their score. Once all questions and queries have been discussed both the relationship manager and customer will hang up. 
+
+#### Class Diagram ####
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/class_diagram.png)
+
+
+#### Activity Diagram ####
+
+
+#### Collaborative Diagram ####
+
+
+#### Sequence Diagram ####
+
+
 ## **9. Advantages** ##
 Competitive advantage refers to an advantage gained over competitors by offering a greater value to consumers compared to other competitors within the market. Competitive advantage is essential in order for a company to distinguish their products and services from other competitors.
 
