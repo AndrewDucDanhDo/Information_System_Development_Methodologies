@@ -116,39 +116,38 @@ The weekly sprints for this agile process are the periods that each task is assi
 #### Use Case Diagram #1: Inbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_inbound.png)
 
-This shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. The inbound customer’s question may be answered by an automated bot or redirect them to their website depending on the inquiry. If chat bot cannot answer the query, the customer ends up talking to a relationship manager about purchasing a holiday package.
+This shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. Given the business of the call centre, the inbound customer may initially interact with the Interactive Voice Response Unit or directly connected to a relationship manager. If the wait time is extensive, the customer has the option to be provided information on the Travel Company's website.
 
 #### Use Case Diagram #2: Outbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_outbound.png)
 
-This use case diagram shows how the relationship managers will attempt to contact potential customers by calling them from their target list and ask if they are interested in the holiday packages available. If they are, ask the customers to complete a 10-minute questionnaire which will allow the company to profile the customer and store their details into a system database which will hold all of their respective data including a score to match their loyalty.
+The use case diagram displays how the relationship managers will attempt to contact outbound customers based on a system generated target list of customers that would potentially purchase a travel package. If the customer decides to purchase a travel package, the systems extended features sends the customer a confirmaion email and invoice. Additionally, if the customer does not confirm a purchase, they have the option of opting into the SMS messaging option to be reminded of exclusive offers. Lastly, if the customer does not pick up, the relationship manager can leave a voicemail of travel package offers to entice the customer to call back.
 
 
 #### Class Diagram ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/class_diagram.png)
 
-A class diagram represent various aspects of the system and are used to model the structure of the system. Thus, this diagram defines the overall structure of the system and the relationship amongst objects.
+The class diagram outlines the connected features of the proposed call management system. Major components includes the call routine and distribution class that connects the customer to the relationship manager, the pre-existing profiler tool that is implemented alongside the new information systema and that manages the assessment tools and profiles and the CMC systemt that includes the extended features such as the SMS and email messaging.  
 
 #### Activity Diagram: Inbound Call ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
+The activity diagram provides a walkthrough of building a RM profile, the customer queue process and the interaction activities with inbound customers.
 
 #### Activity Diagram: Outbound Call ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Outbound.png)
+The outbound activity diagram displays the process of generating a outbound customer target list from the RMs profile and the interaction with the outbound customer.
 
-#### Collaborative Diagram ####
+#### Collaborative Diagram: Inbound Customer ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_inbound_customer.png)
+The collaborative diagram outlines the functional prompts that are required for an inbound customer to be placed ina  call with a relationship manager.
 
+#### Collaborative Diagram: Relationship Manager ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_relationship_manager.png)
+This collaborative diagram provides a walkthrough of a relationship manager being recruited and the CMC system generating user profiles as well as storing and retreiving the user data from the database.
 
+## **9. Advantages & Adverse Consequences ** ##
+The travel company can gain a competitive advantage with this proposed call management system through the RM-customer matching features, the organisation and categorisation of insightful RM information and customer information and the additional promotional tactics and features extended from the base system such as promotional SMS offerings and follow-up email marketing. Because Relationship Managers and Customers are pairing based on their profiles and suitability, RMs can answer customer queries more easily and effectively because of their level of experience and product knowledge which can be derived from the skill matrices. Additionally, the scoring of repeat customers based on their likelihood of purchasing a travel package increases the potential for prioritising those customers with higher scores and closing sales. In the occurance that the customer does not confirm a travel package purchase during the call, the call management system provides additional promotional offers through SMS and email messages to consistently remind the customer of promotional offers, increasing the chances of calling back with purchasing intent.
 
-## **9. Advantages** ##
-Competitive advantage refers to an advantage gained over competitors by offering a greater value to consumers compared to other competitors within the market. Competitive advantage is essential in order for a company to distinguish their products and services from other competitors.
-
-Competitive advantage could be achieved through the implementation of a new system for the travel company, which can result in new opportunities for the company. If the travel company were to implement a more reliable and intuitive system, this can allow the travel company to gain a competitive advantage over other travel companies. For instance, having a more reliable system would attract more customers compared to other companies who utilise a similar system to the current in-house call management centre. The new system can overcome certain issues with the current system such as long wait times for inboun customers. Hence, if the travel company were to implement a new information system, it can allow the company to gain a competitive advantage amongst other competitors within the market which can assist the company to improve their sales performance.
-
-THINGS TO DISCUSS IN ADVANTAGES:
-- address the problems with current system
-- address how new system can overcome these issues
-- make links to problem definition
+If the travel company fails to implement this information system, the following adverse effects may potentially occur: travel package sales decreases, travel company competitors seize more market share, customer satisfaction decreases, brand perception decreases and legacy call management system will become slow and outdated.
 
 ## **10. Conclusion** ##
