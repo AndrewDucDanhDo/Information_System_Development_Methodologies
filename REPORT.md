@@ -166,9 +166,8 @@ Additionally, this diagram further shows how a customer (or potential customer) 
 #### Use Case Diagram #2: Outbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_outbound.png)
 
-Outbound calls are calls that are made by the company to their target audience to generate leads on potential customers and attempt to retain existing customers to strengthen the brand. Outbound agents have never had any previous contact with the customers they are calling. This use case diagram shows the interaction between the system, the relationship managers and in bound customers.
+This use case diagram shows how the relationship managers will attempt to contact potential customers by calling them from their target list and ask if they are interested in the holiday packages available. If they are, ask the customers to complete a 10-minute questionnaire which will allow the company to profile the customer and store their details into a system database which will hold all of their respective data including a score to match their loyalty
 
-Thus, this diagram shows how the relationship managers will attempt to contact potential customers by calling them from their target list (leave a voice mail if no answer) and ask if they are interested in the holiday packages available. If they are, ask the customers to complete a 10-minute questionnaire which will allow the company to profile the customer and store their details into a system database which will hold all of their respective data including a score to match their loyalty, which will ultimately decide how long they will wait in a phone call queue depending on their score. Once all questions and queries have been discussed both the relationship manager and customer will hang up. 
 
 #### Class Diagram ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/class_diagram.png)
