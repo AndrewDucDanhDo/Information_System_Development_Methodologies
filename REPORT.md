@@ -149,6 +149,13 @@ Thus, this diagram shows how the relationship managers will attempt to contact p
 
 
 #### Activity Diagram ####
+Inbound Call
+
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
+
+Outbound Call
+
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Outbound.png)
 
 
 #### Collaborative Diagram: Inbound Customer ####
