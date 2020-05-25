@@ -16,6 +16,8 @@ Nimrod Ktalav | 12900268
 
 
 ## **1. Executive Summary** ##
+Because of the request from a travel company to improve their current call management system, this proposal outlines the key improvements and upgrades based on the project specification. This includes introducing profile matching features for Relationship Managers and Customers, allocating inbound customer queries based on the RMs skill level and experience, scoring of potential customers based on the probability of purchasing success and extending on the base CMC system with SMS and emailing functionalities.
+
 
 ## **2. Objectives** ##
 The following report proposes an information system that will improve the operations of a major travel company's in-house call management centre (CMC). The objective is to provide an information system that improves call routing and dynamic call flow control for Relationship Managers (RM) that are allocated queries from inbound and outbound customers based on suitability. 
@@ -48,23 +50,22 @@ A major travel company is seeking to update their call management system to impr
 
 
 ## **4. Stakeholders** ##
-### Empathy Maps: ###
-Relationship Managers
+#### Empathy Maps: Relationship Managers ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_relationship_manager.jpg)
 
 Relationship managers are responsible for performing sales on holiday packages, answer customer inquiries and building a profile matrix. They may often hear complaints from customers as well as customer feedback. Having an improved system can reduce the pain and pressure experienced by RMs.
 
-Inbound Customers
+#### Empathy Maps: Inbound Customers ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_in_bound.jpg)
 
 Inbound customers may feel frustration using the current system as it is slow and not intuitive. They may feel confused about which available holiday package is best suited for them. Inbound customers may complain about long wait times as they wish to be served first. Inbound customers with a low score may feel frustration as they have to wait long times, however inbound customers with a high score are served first, which may reduce customers frustration.
 
-Outbound Customers
+#### Empathy Maps: Outbound Customers ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_out_bound.jpg)
 
 Outbound customers receive calls from the travel company. They may feel frustration if they constantly receive calls from the travel company, however they may feel happy receiving offers for potential holiday packages. Outbound customers are often influenced by friends and family who have purchased holiday packages. 
 
-Travel Company
+#### Empathy Maps: Travel Company ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_travel_company.jpg)
 
 The travel company perform business operations such as sales and marketing. They may feel immense pressure due to having various activities to overlook. They often hear both complaints and feedback from customers. They are often concerned about seeing customer satisfaction through using their services. In order to reduce any business pressure, the company should consider investing in a new information system in order to attract customer loyalty and improve business operations.
