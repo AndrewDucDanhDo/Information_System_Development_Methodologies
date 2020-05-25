@@ -60,17 +60,17 @@ Relationship managers are responsible for performing sales on holiday packages, 
 Inbound Customers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_in_bound.jpg)
 
-Inbound customers may feel frustration using the current system as it is slow and not intuitive. They may feel confused about which available holiday package is best suited for them. Inbound customers often ask questions to relationship managers in the call management centre and inquire about available holiday packages. Inbound customers may complain about long wait times as they wish to be served first. Inbound customers with a low score may feel frustration as they have to wait long times, however inbound customers with a high score are served first, which may reduce customers frustration.
+Inbound customers may feel frustration using the current system as it is slow and not intuitive. They may feel confused about which available holiday package is best suited for them. Inbound customers may complain about long wait times as they wish to be served first. Inbound customers with a low score may feel frustration as they have to wait long times, however inbound customers with a high score are served first, which may reduce customers frustration.
 
 Outbound Customers
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_out_bound.jpg)
 
-Outbound customers receive calls from the travel company. They may feel frustration if they constantly receive calls from the travel company, however they may feel happy receiving offers for potential holidat packages. Outbound customers are often influenced by friends and family who have purchased holiday packages. Other individuals may often influence their decision making when looking for potential holiday packages.
+Outbound customers receive calls from the travel company. They may feel frustration if they constantly receive calls from the travel company, however they may feel happy receiving offers for potential holiday packages. Outbound customers are often influenced by friends and family who have purchased holiday packages. 
 
 Travel Company
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/empathy_map_travel_company.jpg)
 
-The travel company perform business operations such as sales and marketing. They may feel immense pressure due to having various activities to overlook. They may be concerned with the current system as customers may hang up after waiting for a long time, which can cause a loss of customers. The travel company may feel pressure to create competitive advantage and compete with other travel companies. They often hear complaints from customers as well as feedback. They are often concerned about seeing customer satisfaction through using their services. In order to reduce any business pressure, the company should consider investing in a new information system in order to attract customer loyalty and improve business operations.
+The travel company perform business operations such as sales and marketing. They may feel immense pressure due to having various activities to overlook. They often hear both complaints and feedback from customers. They are often concerned about seeing customer satisfaction through using their services. In order to reduce any business pressure, the company should consider investing in a new information system in order to attract customer loyalty and improve business operations.
 
 ### Point-of-View Statements: ###
 * Relationship Managers (RMs) need a system to control call flow for inbound and outbound calls so that the amount of calls can be effectively managed.
