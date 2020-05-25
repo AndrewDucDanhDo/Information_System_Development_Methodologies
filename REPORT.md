@@ -130,9 +130,8 @@ Scrum is defined by the development process that is unpredictable and requires a
 #### Use Case Diagram #1: Inbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_inbound.png)
 
-Inbound calls are incoming calls, which are generally from existing or potential customers, where the relationship manager will respond to queries. This use case diagram shows the interaction between the system, the relationship managers and in bound customers. 
+This shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. The inbound customer’s question may be answered by an automated bot or redirect them to their website depending on the inquiry. If chat bot cannot answer the query, the customer ends up talking to a relationship manager about purchasing a holiday package
 
-Additionally, this diagram further shows how a customer (or potential customer) will attempt to contact the travel company with a query or intention to purchase a holiday package. The inbound customer’s question may be answered by an automated bot or redirect them to their website depending on the inquiry. If the enquiry gets answered by the chat bot, they may hang up, If the customer ends up talking to a relationship manager about purchasing a holiday package, the customer will be asked to take a 10-minute questionnaire to build a profile which then ultimately becomes stored in the system database. Depending on the loyalty of the customer, the system will create a score for the customer which get stored in the database and will then help them get their questions answered quicker depending on their respective score. 
 #### Use Case Diagram #2: Outbound ####
 ![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/use_case_diagram_outbound.png)
 
