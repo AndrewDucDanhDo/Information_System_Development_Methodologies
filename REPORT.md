@@ -178,6 +178,9 @@ Thus, this diagram shows how the relationship managers will attempt to contact p
 
 
 #### Collaborative Diagram ####
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_inbound_customer.png)
+
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/collaborative_diagram_relationship_manager.png)
 
 
 #### Sequence Diagram ####
