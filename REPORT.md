@@ -25,12 +25,9 @@ The following report proposes an information system that will improve the operat
 Functional Requirements 
 --------|
 The system matches the relationship managers and customers based on the RM's performance, profiles and product knowledge.
-The system stores the user's profile information into a database.
 The system has Profiler Tool that creates profiles for the RM and customers.
 The system produces a questionnaire and skill matrix of the RMs.
-The system gneerates guidelines and a script to assist RMs with their customer service.
-The system generates a target list of suitable customers for the RM to call.
-The system has a call routing and distribution routine that minimises inbound call costs by reduing per-call handling time.
+The system generates targetlist, guidelines and a script to assist RMs with their customer service.
 The system generates a priority-based score for customers in which higher customer scores are served first.
 The system has an Interactive Voice Response unit that automatically prompts the user for information while they are waiting in a queue.
 
@@ -39,13 +36,12 @@ Non-Functional Requirements | Purpose
 --------|----------------
 Responsive | Because inbound customers can potentially be waiting in a queue when they call the CMC, the system's timeliness is essential to allocating suitable RMs and maximising potential travel package sale opportunities.
 Usable | RMs require an user-friendly interface that provides easy-to-understand scripts and customer information to resolve customer inquiries efficiently.
-Extensible | Future extensions to the call routing system can be applied to improve the system's service quality.
 Maintainable | System failures and bugs are inevitable; constant maintenance can mitigate these issues.
 Data Architecture | Because the travel company manages several holiday package options, user profiles and performance reports, the system requires a logical structure for organising the data to prevent memory overflows.
 Secure | The system handles user sensitive data that should adhere to the Australian Data Privacy Act 1988.
 
 ### Team Objectives ###
-Team goals can be measured through Github's version control features and opened issues. In order for the goals to be achieved, the team will hold weekly meetings, commit an update for their assigned task to github at least once a week and comment on the opened issues if there are any inquiries. Each team member will be assigned a role with task responsibilities for this project (Further clarification can be found in Section 6: Agile Methodologies). The team objective to achieve an High Destinction for this report as well as satisfactory team collaboration and morale.
+Team goals can be measured through Github's version control features and opened issues. In order for the goals to be achieved, the team will hold weekly meetings, commit an update for their assigned task to github at least once a week and comment on the opened issues if there are any inquiries. Each team member will be assigned a role with task responsibilities for this project, and the team objective to achieve an High Destinction for this report as well as satisfactory team collaboration and morale.
 
 ## **3. Problem Definition** ##
 A major travel company uses a call management centre as a way of attempting to sell holiday packages to people who want to travel. They want an information system to be developed which will improve the overall operation of their call management centre. 
@@ -79,15 +75,13 @@ The travel company perform business operations such as sales and marketing. They
 ### Point-of-View Statements: ###
 * Relationship Managers (RMs) need a system to control call flow for inbound and outbound calls so that the amount of calls can be effectively managed.
 * RMs need a system that will match RMs and end-customers according to the RM’s skills and customers profiles so that a suitable service can be provided.
-* RMs need a system that segments customers into social and cultural groups according to their postcodes and surnames so that they can be matched with suitable customers and the chances of achieving a sale or providing a service is increased.
+* RMs need a system that segments customers into social and cultural groups according to their postcodes and surnames so that they can be matched with suitable customers.
 * RMs need a system that builds a profile and skill matrix based on a questionnaire so that it provides an initial RM profile for the matching technique.
-* RMs need a system that targets potential buyers with outbound calls so that it can optimise its customer service.
 * RMs need a system that dials numbers automatically according to a generated customer target list so that the calling and matching process is automated.
 * RMs need a system that has a call routing and distribution routine so that it minimises inbound call costs by reducing per-call handling time.
 * RMs need a system that calculates a skill score based on the RM’s previous call duration and profile so that RM’s can be ranked on quality of performance.
 * RM’s need a system that scores a customer from 1-10 based on the likelihood to purchase the product so that customers with the highest score can be served first.
 * RM’s need a system that directs customers to an Interactive Voice Response unit prompting them for options or verbal responses and then redirects the call to an Automatic Call Distributor to be matched with an RM so that during busy times, all customers can be provided service and updates on their current position in the calling queue.
-* Customers need a system that redirects their customer inquiries to a suitable RM so that they can have their queries answered.
 
 ### How Might We Statements: ###
 * How might we improve call routing and dynamic call flow control for both inbound and outbound calls?
@@ -125,7 +119,7 @@ Potential solutions to these aforementioned problems include implementing a mult
 ## **6. Agile Methodologies** ##
 The team has used the Agile Methodology to continuously develop the following report, situational analysis, models, diagrams and benefits for the proposed call management system. Iterations are conducted through weekly virtual online team meetings where individual progressions are voiced, potential issues are raised and tasks are assigned for the following scrum iteration. Consequently, the agile process fosters growth, team coordination, communication and understanding of the current status of the project according to changing requirements, newly found insights, emotional and mental workloads, and learning points. Each individual within the team is self-organised meaning that given their task, they have the decision on how they would like to accomplish their work. Assigned roles for this project are as follows: the Product Owner (Subject Coordinator), the Scrum Master (Andrew Do), and the Development Team (Adam Kondonis, Louis Henderson, and Nimrod Ktalav). The product owner will be liaised with if any issues or additional inquiries are required for the report, the scrum master is responsible for ensuring that scrum is used and that the development team is able to self-organise themselves and the development team is collectively responsible for the performance and progression of the project.
 
-The weekly sprints for this agile process were the periods that each task is assigned from the backlog. Each sprint involved furthering the development and understanding of the call management system. At the beginning, a sprint planning forecasted the product backlog of items that needed to be completed including the problem analysis, design thinking process and required model diagrams. The sprint review was taken place to ensure that the project is aligning with the user requirements from the product owner. Lastly, the sprint retrospective occured at the end of each sprint to examine the ways that the team could improve the features of the call system. With each backlogged item, there is an associated user story as shown in Section 8. The finalisation of the agile process occured when every member of the team has unanimously agreed that there is no more work to do. These guidelines were followed through the entirety of this project as shown in the github version control, the backlog of issues and the continuous development of models using draw.io. 
+Scrum is defined by the development process that is unpredictable and requires adaptation. The weekly sprints for this agile process were the periods that each task is assigned from the backlog. Each sprint involved furthering the development and understanding of the call management system. At the beginning, a sprint planning forecasted the product backlog of items that needed to be completed including the problem analysis, design thinking process and required model diagrams. The sprint review was taken place to ensure that the project is aligning with the user requirements from the product owner. Lastly, the sprint retrospective occured at the end of each sprint to examine the ways that the team could improve the features of the call system. With each backlogged item, there is an associated user story as shown in Section 8. The finalisation of the agile process occured when every member of the team has unanimously agreed that there is no more work to do. These guidelines were followed through the entirety of this project as shown in the github version control, the backlog of issues and the continuous development of models using draw.io. 
 
 ## **7. Key Assumptions** ##
 *	The company will continue to operate during the switch of new information system
