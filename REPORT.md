@@ -126,7 +126,7 @@ The use case diagram displays how the relationship managers will attempt to cont
 
 
 #### Class Diagram ####
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/class_diagram.png)
+![github]()
 
 The class diagram outlines the connected features of the proposed call management system. Major components includes the call routine and distribution class that connects the customer to the relationship manager, the pre-existing profiler tool that is implemented alongside the new information systema and that manages the assessment tools and profiles and the CMC systemt that includes the extended features such as the SMS and email messaging.  
 
