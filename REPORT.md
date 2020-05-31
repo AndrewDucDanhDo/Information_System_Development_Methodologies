@@ -131,7 +131,7 @@ The use case diagram displays how the relationship managers will attempt to cont
 The class diagram outlines the connected features of the proposed call management system. Major components includes the call routine and distribution class that connects the customer to the relationship manager, the pre-existing profiler tool that is implemented alongside the new information systema and that manages the assessment tools and profiles and the CMC systemt that includes the extended features such as the SMS and email messaging.  
 
 #### Activity Diagram: Inbound Call ####
-![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound.png)
+![github](https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies/blob/master/images/Activity%20Diagram%20Inbound%20Fixed.png)
 The activity diagram provides a walkthrough of building a RM profile, the customer queue process and the interaction activities with inbound customers.
 
 #### Activity Diagram: Outbound Call ####
