@@ -16,6 +16,8 @@ Nimrod Ktalav | 12900268
 ### Youtube Video Presentation ###
 https://youtu.be/q4E9_71Txmg
 
+### Github Repository ###
+https://github.com/AndrewDucDanhDo/Information_System_Development_Methodologies
 
 ## **1. Executive Summary** ##
 Because of the request from a travel company to improve their current call management system, this proposal outlines the key improvements and upgrades based on the project specification. This includes introducing profile matching features for Relationship Managers and Customers, allocating inbound customer queries based on the RMs skill level and experience, scoring of potential customers based on the probability of purchasing success and extending on the base CMC system with SMS and emailing functionalities.
